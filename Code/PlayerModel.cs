@@ -2,7 +2,7 @@
 using Sandbox;
 using System.Threading.Tasks;
 
-namespace SuicideBarrels
+namespace TTT
 {
     [ClassLibrary]
     public class PlayerModel : SkeletalMeshEntity

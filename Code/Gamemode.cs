@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Random = Sandbox.Random;
 using Math = Sandbox.Math;
 
-namespace SuicideBarrels
+namespace TTT
 {
     enum Phase
     {
@@ -38,7 +38,7 @@ namespace SuicideBarrels
         };
     }
 
-    [ClassLibrary(Name = "SuicideBarrelsGamemode")]
+    [ClassLibrary(Name = "TTTGamemode")]
     class Gamemode : BaseGamemode
     {
         public static Gamemode Current { get; set; }

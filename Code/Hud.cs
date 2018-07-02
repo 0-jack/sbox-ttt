@@ -1,6 +1,6 @@
 ﻿using Sandbox;
 
-namespace SuicideBarrels
+namespace TTT
 {
     [ClassLibrary]
     internal class Hud : EngineHud

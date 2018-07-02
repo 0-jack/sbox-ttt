@@ -1,6 +1,6 @@
 ﻿using Sandbox;
 
-namespace SuicideBarrels
+namespace TTT
 {
     [ClassLibrary]
     class ExplosionEffect : ParticleSystem

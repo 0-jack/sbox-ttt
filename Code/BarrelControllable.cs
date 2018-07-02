@@ -5,7 +5,7 @@ using System.Linq;
 using Math = Sandbox.Math;
 using Random = Sandbox.Random;
 
-namespace SuicideBarrels
+namespace TTT
 {
     [ClassLibrary]
     public partial class BarrelControllable : CharacterControllable, ICanBeDamaged, IHasHealth

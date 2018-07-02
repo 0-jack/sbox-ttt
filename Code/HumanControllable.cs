@@ -1,6 +1,6 @@
 using Sandbox;
 
-namespace SuicideBarrels
+namespace TTT
 {
     [ClassLibrary]
     public partial class HumanControllable : BaseWeaponControllable, ICanBeDamaged, IHasHealth, IHasInventory
