@@ -1,7 +1,7 @@
 ﻿using Sandbox;
 using System.Linq;
 
-namespace SuicideBarrels.UI
+namespace TTT.UI
 {
     [ClassLibrary]
     class Scoreboard : HudComponent

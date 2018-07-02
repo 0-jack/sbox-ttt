@@ -1,7 +1,7 @@
 ﻿using Sandbox;
 using System;
 
-namespace SuicideBarrels.UI
+namespace TTT.UI
 {
     [ClassLibrary]
     public class PhaseDisplay : HudComponent

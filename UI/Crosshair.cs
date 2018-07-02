@@ -1,7 +1,7 @@
 ﻿using Sandbox;
 using System.Collections.Generic;
 
-namespace SuicideBarrels.UI
+namespace TTT.UI
 {
     [ClassLibrary]
     class Crosshair : HudComponent
