@@ -20,8 +20,9 @@ namespace TTT
     enum Team : int
     {
         Spectator,
-        Human,
-        Barrel,
+        Innocent,
+        Detective,
+        Traitor,
     }
 
     public struct DeathTarget
@@ -89,8 +90,9 @@ namespace TTT
         {
             switch (team)
             {
-                case Team.Barrel: return Color.Red;
-                case Team.Human: return Color.Green;
+                case Team.Traitor: return Color.Red;
+                case Team.Innocent: return Color.Green;
+                case Team.Detective: return Color.Blue;
                 case Team.Spectator: return new Color(0.7, 0.7, 0.7);
                 default: return Color.White;
             }
