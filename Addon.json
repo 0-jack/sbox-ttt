@@ -1,0 +1,14 @@
+{
+  "Name": "SuicideBarrels",
+  "Tags": [
+    "Gamemode"
+  ],
+  "Code": {
+    "Enabled": true,
+    "Requires": {
+      "Engine": "*",
+      "MenuSystem": "*",
+      "SourceImport": "*"
+    }
+  }
+}
